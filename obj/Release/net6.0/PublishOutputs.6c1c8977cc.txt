@@ -1,0 +1,7 @@
+C:\Users\Nishani.krupakar\source\repos\testDeploy\testDeploy\obj\Release\net6.0\PubTmp\Out\testDeploy.exe
+C:\Users\Nishani.krupakar\source\repos\testDeploy\testDeploy\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Nishani.krupakar\source\repos\testDeploy\testDeploy\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\Nishani.krupakar\source\repos\testDeploy\testDeploy\obj\Release\net6.0\PubTmp\Out\testDeploy.dll
+C:\Users\Nishani.krupakar\source\repos\testDeploy\testDeploy\obj\Release\net6.0\PubTmp\Out\testDeploy.deps.json
+C:\Users\Nishani.krupakar\source\repos\testDeploy\testDeploy\obj\Release\net6.0\PubTmp\Out\testDeploy.runtimeconfig.json
+C:\Users\Nishani.krupakar\source\repos\testDeploy\testDeploy\obj\Release\net6.0\PubTmp\Out\testDeploy.pdb
